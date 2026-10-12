@@ -134,7 +134,7 @@
     "Unavailable": "Unavailable",
     "Unknown": "Unknown",
     "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。",
-    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed."
+    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.",
     "If you encounter translation errors, leftover untranslated text, or incomplete translations, simply re-enter the game to resolve the issue. (If this does not work, please open a ticket on our communication server.)": "If you encounter translation errors, leftover untranslated text, or incomplete translations, simply re-enter the game to resolve the issue. (If this does not work, please open a ticket on our communication server.)",
   },
   "zh-CN": {
@@ -272,7 +272,7 @@
     "Unavailable": "不可用",
     "Unknown": "未知",
     "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此开关用于隐藏 'Delta Ui' 黑线并将界面设为透明；如果觉得不需要，可以关闭。",
-    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此开关用于隐藏 'Delta Ui' 黑线并将界面设为透明；如果觉得不需要，可以关闭。"
+    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此开关用于隐藏 'Delta Ui' 黑线并将界面设为透明；如果觉得不需要，可以关闭。",
     "If you encounter translation errors, leftover untranslated text, or incomplete translations, simply re-enter the game to resolve the issue. (If this does not work, please open a ticket on our communication server.)": "如果出现 翻译错误 与 翻译残留 和 翻译不全 重新进入游戏即可恢复 (如 无用请到我们的通讯服务器开启票据)",
   },
   "zh-TW": {
@@ -410,7 +410,7 @@
     "Unavailable": "無法使用",
     "Unknown": "未知",
     "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此開關用於隱藏 'Delta Ui' 黑線並將介面設為透明；若不需要可以關閉。",
-    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此開關用於隱藏 'Delta Ui' 黑線並將介面設為透明；若不需要可以關閉。"
+    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此開關用於隱藏 'Delta Ui' 黑線並將介面設為透明；若不需要可以關閉。",
     "If you encounter translation errors, leftover untranslated text, or incomplete translations, simply re-enter the game to resolve the issue. (If this does not work, please open a ticket on our communication server.)": "If you encounter translation errors, leftover untranslated text, or incomplete translations, simply re-enter the game to resolve the issue. (If this does not work, please open a ticket on our communication server.)",
   }
 }
