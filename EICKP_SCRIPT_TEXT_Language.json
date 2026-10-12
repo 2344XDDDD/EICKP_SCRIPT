@@ -110,9 +110,8 @@
     "Script loading failed after connection timeout\nSimulated Latency %dms\n\nError Reason: %s\nError Code: %s": "Script loading failed after connection timeout\nSimulated Latency %dms\n\nError Reason: %s\nError Code: %s",
     "Inspecting: Time.json": "Inspecting: Time.json",
     "Inspecting: Ui.json": "Inspecting: Ui.json",
-    "Decompressing AST table (98%)...": "Decompressing AST table (98%)...",
-    "Warning: Parsing heavy AST node tree...": "Warning: Parsing heavy AST node tree...",
-    "Lag Spike: Frame drop recovered (1800ms)": "Lag Spike: Frame drop recovered (1800ms)",
+    "Decompressing AST table (98%)": "Decompressing AST table (98%)",
+    "Warning: AST parsing": "Warning: AST parsing",
     "Validating key-value checksums...": "Validating key-value checksums...",
     "Ui.json -> Format Valid": "Ui.json -> Format Valid",
     "Time.json -> Timestamp Valid": "Time.json -> Timestamp Valid",
@@ -131,11 +130,11 @@
     "Server Name: %s": "Server Name: %s",
     "Server ID: %s": "Server ID: %s",
     "Script Version\n%s": "Script Version\n%s",
-    "Studio / Unavailable": "Studio / Unavailable",
+    "nil / Unavailable": "nil / Unavailable",
     "Unavailable": "Unavailable",
     "Unknown": "Unknown",
     "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。",
-    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed."
+    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed."
   },
   "zh-CN": {
     "Language": "语言",
@@ -247,9 +246,8 @@
     "Script loading failed after connection timeout\nSimulated Latency %dms\n\nError Reason: %s\nError Code: %s": "连接超时后脚本加载失败\n模拟延迟：%d 毫秒\n\n错误原因：%s\n错误代码：%s",
     "Inspecting: Time.json": "正在检查：Time.json",
     "Inspecting: Ui.json": "正在检查：Ui.json",
-    "Decompressing AST table (98%)...": "正在解压 AST 表（98%）...",
-    "Warning: Parsing heavy AST node tree...": "警告：正在解析大型 AST 节点树...",
-    "Lag Spike: Frame drop recovered (1800ms)": "检测到卡顿：帧率已恢复（1800 毫秒）",
+    "Decompressing AST table (98%)...": "正在解压 AST 表（98%）",
+    "Warning: AST parsing": "警告：AST解析",
     "Validating key-value checksums...": "正在验证键值校验和...",
     "Ui.json -> Format Valid": "Ui.json -> 格式有效",
     "Time.json -> Timestamp Valid": "Time.json -> 时间戳有效",
@@ -269,11 +267,11 @@
     "Server Name: %s": "服务器名称：%s",
     "Server ID: %s": "服务器 ID：%s",
     "Script Version\n%s": "脚本版本\n%s",
-    "Studio / Unavailable": "工作室 / 不可用",
+    "nil / Unavailable": "nil / 不可用",
     "Unavailable": "不可用",
     "Unknown": "未知",
-    "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此开关用于隐藏 Delta UI 黑线并将界面设为透明；如果觉得不需要，可以关闭。",
-    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "此开关用于隐藏 Delta UI 黑线并将界面设为透明；如果觉得不需要，可以关闭。"
+    "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此开关用于隐藏 'Delta Ui' 黑线并将界面设为透明；如果觉得不需要，可以关闭。",
+    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此开关用于隐藏 'Delta Ui' 黑线并将界面设为透明；如果觉得不需要，可以关闭。"
   },
   "zh-TW": {
     "Language": "語言",
@@ -385,9 +383,8 @@
     "Script loading failed after connection timeout\nSimulated Latency %dms\n\nError Reason: %s\nError Code: %s": "連線逾時後腳本載入失敗\n模擬延遲：%d 毫秒\n\n錯誤原因：%s\n錯誤代碼：%s",
     "Inspecting: Time.json": "正在檢查：Time.json",
     "Inspecting: Ui.json": "正在檢查：Ui.json",
-    "Decompressing AST table (98%)...": "正在解壓縮 AST 表（98%）...",
-    "Warning: Parsing heavy AST node tree...": "警告：正在解析大型 AST 節點樹...",
-    "Lag Spike: Frame drop recovered (1800ms)": "偵測到卡頓：影格率已恢復（1800 毫秒）",
+    "Decompressing AST table (98%)": "正在解壓縮 AST 表（98%)",
+    "Warning: AST parsing": "警告：AST檢測",
     "Validating key-value checksums...": "正在驗證鍵值校驗和...",
     "Ui.json -> Format Valid": "Ui.json -> 格式有效",
     "Time.json -> Timestamp Valid": "Time.json -> 時間戳有效",
@@ -407,10 +404,10 @@
     "Server Name: %s": "伺服器名稱：%s",
     "Server ID: %s": "伺服器 ID：%s",
     "Script Version\n%s": "腳本版本\n%s",
-    "Studio / Unavailable": "工作室 / 無法使用",
+    "nil / Unavailable": "nil / 無法使用",
     "Unavailable": "無法使用",
     "Unknown": "未知",
-    "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此開關用於隱藏 Delta UI 黑線並將介面設為透明；若不需要可以關閉。",
-    "This toggle hides the Delta UI line and makes the UI transparent. Turn it off if not needed.": "此開關用於隱藏 Delta UI 黑線並將介面設為透明；若不需要可以關閉。"
+    "此开关隐藏 'Delta Ui' 黑线并把 Ui 改为透明，如果您觉得无用可不使用。": "此開關用於隱藏 'Delta Ui' 黑線並將介面設為透明；若不需要可以關閉。",
+    "This toggle hides the 'Delta Ui' line and makes the UI transparent. Turn it off if not needed.": "此開關用於隱藏 'Delta Ui' 黑線並將介面設為透明；若不需要可以關閉。"
   }
 }
