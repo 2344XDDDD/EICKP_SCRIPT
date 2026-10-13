@@ -62,6 +62,8 @@
     "Close UI?": "Close UI?",
     "Are you sure you want to close and unload this interface?": "Are you sure you want to close and unload this interface?",
     "Close": "Close",
+    "Rayfield": "EICKP - SCRIPT",
+    "Tap to show": "Tap to show",
     "Stops the window being dragged off the edge of the screen and lost.": "Stops the window being dragged off the edge of the screen and lost."
   },
   "zh-CN": {
@@ -127,6 +129,8 @@
     "Close UI?": "关闭界面？",
     "Are you sure you want to close and unload this interface?": "确定要关闭并卸载此界面吗？",
     "Close": "关闭",
+    "Rayfield": "EICKP - SCRIPT",
+    "Tap to show": "点击以显示",
     "Stops the window being dragged off the edge of the screen and lost.": "防止窗口被拖到屏幕边缘之外而无法找回。"
   },
   "zh-TW": {
@@ -192,6 +196,8 @@
     "Close UI?": "關閉介面？",
     "Are you sure you want to close and unload this interface?": "確定要關閉並卸載此介面嗎？",
     "Close": "關閉",
+    "Rayfield": "EICKP - SCRIPT",
+    "Tap to show": "點擊以顯示",
     "Stops the window being dragged off the edge of the screen and lost.": "防止視窗被拖曳到螢幕邊緣之外而無法找回。"
   }
 }
