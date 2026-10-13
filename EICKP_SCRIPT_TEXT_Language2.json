@@ -55,6 +55,13 @@
     "Reset Everything": "Reset Everything",
     "Reset all Rayfield settings to defaults.": "Reset all Rayfield settings to defaults.",
     "Reset Window Position": "Reset Window Position",
+    "Reset everything?": "Reset everything?",
+    "This clears every saved value. You can't undo it.": "This clears every saved value. You can't undo it.",
+    "Cancel": "Cancel",
+    "Reset": "Reset",
+    "Close UI?": "Close UI?",
+    "Are you sure you want to close and unload this interface?": "Are you sure you want to close and unload this interface?",
+    "Close": "Close",
     "Stops the window being dragged off the edge of the screen and lost.": "Stops the window being dragged off the edge of the screen and lost."
   },
   "zh-CN": {
@@ -113,6 +120,13 @@
     "Reset Everything": "重置所有设置",
     "Reset all Rayfield settings to defaults.": "将所有 Rayfield 设置恢复为默认值。",
     "Reset Window Position": "重置窗口位置",
+    "Reset everything?": "重置所有设置？",
+    "This clears every saved value. You can't undo it.": "这将清除所有已保存的设置，且无法撤销。",
+    "Cancel": "取消",
+    "Reset": "重置",
+    "Close UI?": "关闭界面？",
+    "Are you sure you want to close and unload this interface?": "确定要关闭并卸载此界面吗？",
+    "Close": "关闭",
     "Stops the window being dragged off the edge of the screen and lost.": "防止窗口被拖到屏幕边缘之外而无法找回。"
   },
   "zh-TW": {
@@ -171,6 +185,13 @@
     "Reset Everything": "重設所有設定",
     "Reset all Rayfield settings to defaults.": "將所有 Rayfield 設定還原為預設值。",
     "Reset Window Position": "重設視窗位置",
+    "Reset everything?": "重設所有設定？",
+    "This clears every saved value. You can't undo it.": "這會清除所有已儲存的設定，而且無法復原。",
+    "Cancel": "取消",
+    "Reset": "重設",
+    "Close UI?": "關閉介面？",
+    "Are you sure you want to close and unload this interface?": "確定要關閉並卸載此介面嗎？",
+    "Close": "關閉",
     "Stops the window being dragged off the edge of the screen and lost.": "防止視窗被拖曳到螢幕邊緣之外而無法找回。"
   }
 }
