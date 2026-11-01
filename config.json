@@ -1,5 +1,25 @@
 {
-    "enabled": true,
-    "status": "true",
-    "scriptRaw": "https://raw.githubusercontent.com/2344XDDDD/EICKP_SCRIPT/refs/heads/main/EICKP_MAIN.lua"
+  "status": "true",
+  "enabled": true,
+  "scriptRaw": "https://raw.githubusercontent.com/2344XDDDD/EICKP_SCRIPT/refs/heads/main/EICKP_MAIN.lua",
+
+  "version": "V3.5.63",
+  "versionLabel": "Latest Version",
+  "updateTitle": "Update",
+  "updateDescription": "Latest EICKP SCRIPT updates and improvements.",
+
+  "updates": [
+    {
+      "title": "SOOM",
+      "description": "SOON"
+    },
+    {
+      "title": "SOOM",
+      "description": "SOON"
+    },
+    {
+      "title": "SOON",
+      "description": "SOON"
+    }
+  ]
 }
